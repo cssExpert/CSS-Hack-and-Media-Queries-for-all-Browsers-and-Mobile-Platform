@@ -1,13 +1,12 @@
-
 @charset "utf-8";
 /*
 
-Author				:Ravi Gupta
-Email				:ravigupta.exe@gmail.com | 9811366107
-Version 			:3.0
-Start Date			:July 27, Twenty 12.
-Last Date Modified 	:July 27, Twenty 12.
-Clients				:Playdance
+Author				:Ravi Gupta<br>
+Email				:ravigupta.exe@gmail.com | 9811366107<br>
+Version 			:3.0<br>
+Start Date			:Aug 01, Twenty 10.<br>
+Last Date Modified 		:Aug 01, Twenty 12.<br>
+Clients				:Playdance<br>
 
 */
 
