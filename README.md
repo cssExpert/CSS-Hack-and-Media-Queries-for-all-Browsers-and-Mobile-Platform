@@ -1,3 +1,17 @@
+
+@charset "utf-8";
+/*
+
+Author				:Ravi Gupta
+Email				:ravigupta.exe@gmail.com | 9811366107
+Version 			:3.0
+Start Date			:July 27, Twenty 12.
+Last Date Modified 	:July 27, Twenty 12.
+Clients				:Playdance
+
+*/
+
+
 CSS-Hack-and-Media-Queries-for-all-Browsers-and-Mobile-Platform
 ===============================================================
 
